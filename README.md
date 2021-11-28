@@ -16,6 +16,6 @@
 -------------
 |week|study|explain|
 |------|-------------|------------------|
-|1week|[스택, 재귀](https://github.com/Team-CMD/2021-CMD-Python_Language/tree/main/1week_stack)|스택구조를 통해 재귀를 이해하고 구현할 수 있다.|
-|2week|[큐, 덱](https://github.com/Team-CMD/2021-CMD-Python_Language/tree/main/2week_queue_deque)|큐와 덱구조를 이해하고 파이썬으로 구현한다.|
-|3week|[그래프]()|여러가지 그래프 구조를 이해하고 상황에 맞는 그래프를 구현한다.|
+|1step|[스택, 재귀](https://github.com/Team-CMD/2021-CMD-Python_Language/tree/main/1week_stack)|스택구조를 통해 재귀를 이해하고 구현할 수 있다.|
+|2step|[큐, 덱](https://github.com/Team-CMD/2021-CMD-Python_Language/tree/main/2week_queue_deque)|큐와 덱구조를 이해하고 파이썬으로 구현한다.|
+|3step|[그래프]()|여러가지 그래프 구조를 이해하고 상황에 맞는 그래프를 구현한다.|
